@@ -9,8 +9,8 @@
 //import org.openqa.selenium.support.ui.ExpectedConditions;
 //import org.openqa.selenium.support.ui.WebDriverWait;
 //import org.openqa.selenium.remote.DesiredCapabilities;
-//
-//public class SeleniumSearchTests {
+
+public class SeleniumSearchTests {
 //
 //    @Test
 //    void successSearchTest () throws MalformedURLException, InterruptedException {
@@ -57,6 +57,6 @@
 //
 //        // Invoke driver.quit() after the test is done to indicate that the test is completed.
 //        driver.quit();
-//
-//    }
+
+    }
 //}
